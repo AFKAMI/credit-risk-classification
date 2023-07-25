@@ -25,9 +25,9 @@ Print the classification report.
 
 # Credit Risk Analysis Report
 
-1. purpose of this analysis is to evaluate the credit risk. Determine the high or low risk factors. looking into the "loan_status" and implement the confusion matrix model. 
+1. purpose of this analysis is to evaluate the credit risk and by using a machine learning model to determine the risk of loan approval.  
 2. describe the accuracy score, the precision score, and recall score of the machine learning model.
-   * Accuracy score of 95.20% tells  how many times the ML model was correct overall.
+   * Accuracy score of 95.20% tells  how many times the ML model was correct overall comapre.
    * Precision of 92% is how good the model is at predicting the 0 is healthy loan and 1 is high-risk loan. 
    * Recall score of 95% tells how many times the model was able to detect a loan risk. 
 3. Summary the results from the machine learning model.
