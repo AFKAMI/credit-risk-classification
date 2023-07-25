@@ -1,4 +1,5 @@
 # credit-risk-classification
+![149666189-fbae54b6-b123-4905-8348-e59ec94cdb1c](https://github.com/AFKAMI/credit-risk-classification/assets/126113162/a4e7fadc-5708-4844-908e-c2d1aaff0ec6)
 
 # Background
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
